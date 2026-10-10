@@ -45,11 +45,6 @@ The dashboard reports approximately **1.9% sales growth**, **2.0% quantity growt
 - Geographic and shopping-channel analysis
 - Data visualization and business storytelling
 
-## How to Use
-
-1. Open the Power BI report file (`.pbix`) in Power BI Desktop, if included in this repository.
-2. Use the slicers to filter by country/city, customer age, customer gender, and shopping channel.
-3. Explore both report pages to compare sales performance and customer shopping behavior.
 
 ## Repository Contents
 
@@ -60,7 +55,7 @@ Add the following files to this repository when available:
 - `images/dashboard-page-2.png` — Customer and shopping behavior screenshot
 - `data/` — Source dataset, if permitted to share
 
-> Note: The PDF preview shows the dashboard design and reported figures. The underlying dataset and editable `.pbix` file are not included with the PDF itself.
+
 
 ## Business Questions Explored
 
@@ -85,7 +80,6 @@ Place dashboard screenshots in an `images/` folder and embed them here:
 
 **Raiful Islam Ratul**
 
-Add your portfolio, LinkedIn, or GitHub profile links here.
 
 ---
 
