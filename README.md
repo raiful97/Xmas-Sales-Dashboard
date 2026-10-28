@@ -67,16 +67,15 @@ Add the following files to this repository when available:
 - How did price and budget relate to quantity sold?
 - When did customers shop, by month, day, and time?
 
-## Preview
+## 📊 Dashboard Preview
 
-Place dashboard screenshots in an  embed them here:
-
-```markdown
+### Sales Overview
 ![Sales Overview](dashboard-page-1.jpeg)
-![Customer & Shopping Behavior](dashboard-page-2.jpeg)
-```
 
-## Author
+### Customer & Shopping Behavior
+![Customer & Shopping Behavior](dashboard-page-2.jpeg)
+
+## 👨‍💻 Author
 
 **Raiful Islam Ratul**
 
