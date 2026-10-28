@@ -50,10 +50,10 @@ The dashboard reports approximately **1.9% sales growth**, **2.0% quantity growt
 
 Add the following files to this repository when available:
 
-- `Xmas_Gift_Sales_Analysis.pbix` — Power BI report
-- `images/dashboard-page-1.png` — Sales overview screenshot
-- `images/dashboard-page-2.png` — Customer and shopping behavior screenshot
-- `data/` — Source dataset, if permitted to share
+- `Xmas_Gift_Sales_Analysis.pdf` — Power BI report
+- `dashboard-page-1.png` — Sales overview screenshot
+- `dashboard-page-2.png` — Customer and shopping behavior screenshot
+
 
 
 
@@ -69,11 +69,11 @@ Add the following files to this repository when available:
 
 ## Preview
 
-Place dashboard screenshots in an `images/` folder and embed them here:
+Place dashboard screenshots in an  embed them here:
 
 ```markdown
-![Sales Overview](images/dashboard-page-1.png)
-![Customer & Shopping Behavior](images/dashboard-page-2.png)
+![Sales Overview](dashboard-page-1.png)
+![Customer & Shopping Behavior](dashboard-page-2.png)
 ```
 
 ## Author
